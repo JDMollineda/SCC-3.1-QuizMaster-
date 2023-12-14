@@ -1,0 +1,4 @@
+.bg-loader {
+    background: url(./assets/images/loader.gif);
+    background-size: cover;    
+}

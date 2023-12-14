@@ -1,37 +1,61 @@
-# SCC-3.1-QuizMaster-
-PWA: Quiz Master - Learn and Master Anywhere
-Welcome to Quiz Master, your pocket-sized learning companion! This Progressive Web App (PWA) built with ReactJS empowers you to learn and master new skills through engaging quizzes from various educational trades. Take your learning on-the-go with offline access and a user-friendly interface.
+# About the Creator/Developer
 
-## What you can do with Quiz Master:
-Challenge yourself: Choose from a variety of quizzes covering diverse topics like:
-Commercial Driver License (CDL) Pre-test: Brush up on your road rules and prepare for your CDL exam.
-HVAC EPA-608 Certification Pre-test: Test your knowledge of refrigeration and air conditioning systems for EPA-608 certification.
-Food Handler's Card Pre-test: Refresh your understanding of food safety practices and ace your food handler's card exam.
-Front-End Web Development Quiz: Sharpen your skills in HTML, CSS, and JavaScript.
-Microsoft Office Self-Paced Course: Master essential Microsoft Office applications at your own pace.
-Measure your progress: Track your performance in each quiz, see your accuracy and identify areas for improvement.
-Improve your typing speed: Practice your typing skills with a dedicated section, measuring your words per minute (WPM) and accuracy.
-Offline access: Quizzes for offline use, learn anytime, anywhere.
-User-friendly interface: Navigate seamlessly through the app with a clean and intuitive design.
+## 👋 Hi, I’m Jesus Daniel Mollineda
 
-## Technologies used:
-ReactJS: Robust JavaScript framework for building interactive user interfaces.
-Progressive Web App (PWA): Provides offline access and installability, offering a native app-like experience.
+<img src="./public/assets/images/author.jpg">
 
-## Getting started:
-Open the PWA in your web browser.
-Explore the available quizzes and courses.
-Start taking quizzes, track your progress, and improve your skills.
-Leaderboards and competitions for increased engagement.
+I am a passionate and dedicated software developer with experience in various languages and frameworks. I have a strong foundation in both front-end and back-end development, and I am proficient in crafting user-centered designs 👀 
 
-## Future plans:
-We plan to add more quizzes from various educational domains.
-Create an account or sign in as a guest.
-Personalized learning recommendations based on your performance.
-API integration: Accesses and updates quiz content dynamically.
-Join the learning journey with Quiz Master! Take control of your learning, master new skills, and achieve your goals, all at your own pace and from any device.
+## Skills
+### 🌱Front-End Languages: 
+HTML, CSS, JavaScript (ES6+) Frameworks & Libraries: React, Redux, Sass, Bootstrap, jQuery, etc. 
+### Experience: 
+Building responsive and interactive web applications, implementing animations and user interactions. 
+### 🌱Back-end Languages: 
+Python (Django) Frameworks & Libraries: Django REST framework, PostgreSQL & MongoDb. 
+### Experience: 
+Developing APIs, building web services, and handling database interactions.
+### 🌱UX/UI Design: Tools: 
+Figma, Sketch Experience: Designing user interfaces, focusing on usability, accessibility, and visual appeal. 
+### 🌱Additional Skills:
+Git version control Agile methodologies (Scrum) Unit testing (Jest) Continuous integration (CI/CD) Strong written and communication skills Ability to work independently and as part of a team. ***Cybersecurity Analyst, with experience in Backtrack, Linux, Red-Hat, Server-Side, Networking and more.***
 
-## Contribute to the project:
-We welcome contributions from the community! If you have ideas for new quizzes, features, or improvements, feel free to fork the repository and submit pull requests.
+I am always eager to learn new technologies and expand my skillset. I am excited to collaborate on challenging and rewarding projects.
 
-Let's learn and grow together!
+### 📫 Reach me @ :
+Email: jesusmollineda88@gmail.com
+
+LinkedIn: www.linkedin.com/in/jesus-d-mollineda-713894251
+
+Github: https://github.com/JDMollineda
+
+# About the this Project
+React App - Progressive Web Application. Focused on helping Second Chance Participants to study and practice testing on a variety of fields. HVAC, CODING, CDL, CULINARY & MICROSOFT OFFICE.
+
+Participants will be able to take a survey in the main page about their first impressions of the program completely anonymously. 
+
+Tabulated data related to highScore of participants and survey results will be accessible trough the url @ /dashboard.
+
+Developer Tools must be active, and Chrome extensions must be installed prior.
+
+# Copyrights Notice
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+ * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ * This software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.
+
+ * Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+
+  1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+  2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+  3. This notice may not be removed or altered from any source distribution.
+
+  ## Copyright Notice 2024
+  💞️ I’m looking to collaborate on any project available, questions or doubts do not hesitate to contact: 
+  ### Jesus Daniel Mollineda
+  jesusmollineda88@gmail.com
+ 
